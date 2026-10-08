@@ -118,7 +118,7 @@ SHARED_REFITTING_CONFIG = {
     "InitialTrackErrorPhi0": ["100"],
     "InitialTrackErrorTanL": ["100"],
     "InitialTrackErrorZ0": ["1e+06"],
-    "InitialTrackState": ["-1"],
+    "InitialTrackState": ["1"],
     "TrackSystemName": ["DDKalTest"],
     "InputTrackRelCollection": [],
 }
